@@ -1,0 +1,29 @@
+h1 {
+    font-weight: 300;
+    color:black;
+    background-color: aquamarine;
+    margin-top: -1px;
+    opacity: 0.75;
+    z-index: 3;
+}
+
+h2 {
+    font-weight: 300;
+    color:black;
+    background-color: aquamarine;
+    opacity: 0.75;
+    z-index: 3;
+    margin-top: -10px;
+}
+
+canvas {
+    margin-top: -250px;
+}
+
+image {
+    z-index: 1;
+}
+
+body {
+    text-align: center;
+}
